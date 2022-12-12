@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+   
+}
+.container
+{
+    padding:0 200px 0 200px;
+}
+.logo{
+    display:inline;
+}
+ul{
+    float:right;
+    display: inline;
+    list-style: none;
+   
+}
+li{
+    display: inline;
+}
